@@ -1,8 +1,17 @@
-import csv
-
-with open('data_x_bet.csv', 'r', encoding='utf-8') as file:
-    file_lines = (line for line in file)
-    line_values = (line.rstrip().split(',') for line in file_lines)
-    next(line_values)
-    true_values = (int(x[1]) for x in line_values if x[2] == 'a')
-    print(sum(true_values))
+def dirReduc(arr):
+    sample = [("NORTH", "SOUTH"), ("SOUTH", "NORTH"), ("EAST", "WEST"), ("WEST", "EAST")]
+    flag = 20
+    while flag != 0:
+        for i in range(len(arr)):
+            try:
+                x = (arr[i].upper(), arr[i+1].upper())
+                if x in sample:
+                    arr.pop(i)
+                    arr.pop(i+1)
+                    break
+            except:
+                continue
+        return arr
+    
+asd = ['NORTH', 'SOUTH', 'SOUTH', 'EAST', 'WEST', 'NORTH', 'WEST']
+print(dirReduc(asd))
