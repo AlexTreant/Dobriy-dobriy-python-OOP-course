@@ -4,12 +4,12 @@ __2023-2-6,Monday
 12:30,14:00,1:10,SQL
 15:15,16:10,0:55,SQL
 17:40,19:00,1:20,Python
-19:00,19:15,00:15,English
+19:00,19:15,0:15,English
 All time to studie: 5:57
 
-__2023-2-7,Tuesday
+__2023-2-7,Tuseday
 8:20,09:50,1:20,SQL
-10:20,11:50,SQL
+10:20,11:50,1:30,SQL
 13:00,14:30,1:20,ML
 15:00,16:00,0:40,Python
 17:45,19:10,1:20,Python
@@ -99,7 +99,7 @@ All time to studie: 2:20
 
 __2023-2-21,Tuesday
 12:40,14:10,1:30,SQL
-17:30:20:10,1:30,Python
+17:30,20:10,1:30,Python
 20:50,21:15,0:25,Python
 All time to studie: 3:25
 
@@ -181,4 +181,511 @@ __2023-3-8,Wednesday
 All time to studie: 2:20
 
 __2023-3-9,Thursday
-8:35,
+8:35,10:45,2:10,Python
+12:15,13:20,1:05,Numpy
+15:05,15:45,0:40,Numpy
+17:40,18:55,1:15,Python
+All time to studie: 5:10
+
+__2023-3-10,Friday
+7:45,8:45,1:00,Numpy
+9:00,10:00,0:50,Numpy
+11:30,12:30,1:00,Numpy
+All time to studie: 2:50
+
+__2023-3-11,Saturday
+9:10,10:00,0:50,Numpy
+All time to studie: 0:50
+
+__2023-3-12,Sunday
+16:40,17:40,1:00,Python
+All time to studie: 1:00
+
+__2023-3-13,Monday
+11:10,11:50,0:40,Python
+12:20,13:20,1:00,Python
+14:20,15:20,1:00,Python
+17:00,18:15,1:15,Python
+All time to studie: 3:55
+
+__2023-3-14,Tuesday
+13:15,14:45,1:30,Python
+All time to studie: 1:30
+
+__2023-3-15,Wednesday
+All time to studie: 0:0
+
+__2023-3-16,Thursday
+9:40,10:40,1:00,Python
+10:50,11:50,1:00,Python
+15:10,16:30,0:40,Python
+16:10,16:30,0:20,Python
+17:40,19:15,1:35,Python
+All time to studie: 4:35
+
+__2023-3-17,Friday
+16:30,17:10,0:40,Python
+All time to studie: 0:40
+
+__2023-3-18,Saturday
+All time to studie: 0:0
+
+__2023-3-19,Sunday
+All time to studie: 0:0
+
+__2023-3-20,Monday
+10:00,11:30,1:30,Python
+12:00,13:10,0:50,Python
+16:40,17:40,1:00,Python
+20:10,20:30,0:20,Python
+All time to studie: 3:40
+
+__2023-3-21,Tuesday
+10:05,10:40,0:35,Python
+12:00,13:10,1:10,Python
+13:50,14:40,0:50,Python
+15:30,16:20,0:50,Python
+18:50,20:00,1:10,English
+All time to studie: 4:35
+
+__2023-3-22,Wednesday
+8:40,9:40,1:00,Python
+10:05,11:45,1:40,Python
+13:00,13:50,0:40,Python
+16:00,16:20,0:20,Python
+17:50,18:45,0:55,Python
+All time to studie: 4:35
+
+__2023-3-23,Thursday
+11:20,13:00,1:40,Python
+14:50,15:30,0:40,Python
+All time to studie: 2:20
+
+__2023-3-24,Friday
+10:00,11:25,1:25,Python
+All time to studie: 1:25
+
+__2023-3-25,Saturday
+All time to studie: 0:0
+
+__2023-3-26,Sunday
+10:30,11:20,0:50,Python
+19:15,19:25,0:10,Python
+All time to studie: 1:00
+
+__2023-3-27,Monday
+10:15,11:30,1:15,Python
+All time to studie: 1:15
+
+__2023-3-28,Tuesday
+8:10,9:00,0:50,Python
+21:05,21:40,0:35,Python
+All time to studie: 1:25
+
+__2023-3-29,Wednesday
+All time to studie: 0:0
+
+__2023-3-30,Thursday
+14:50,15:30,0:40,Python
+All time to studie: 0:40
+
+__2023-3-31,Friday
+13:40,14:50,1:10,Python
+All time to studie: 1:10
+
+__2023-4-1,Saturday
+9:20,10:40,1:20,Python
+11:25,12:25,1:00,Python
+13:35,14:00,0:25,Python
+All time to studie: 2:45
+
+__2023-4-2,Sunday
+15:30,16:20,0:50,Python
+All time to studie: 0:50
+
+__2023-4-3,Monday
+11:20,12:50,1:20,Python
+14:10,15:15,1:05,Python
+17:40,18:30,0:50,Python
+18:55,19:55,1:00,Python
+20:00,20:25,0:25,English
+All time to studie: 4:40
+
+__2023-4-4,Tuesday
+10:30,11:45,0:55,Python
+12:30,13:25,0:55,Python
+16:45,16:55,0:10,Python
+All time to studie: 2:00
+
+__2023-4-5,Wednesday
+11:40,12:40,1:00,Python
+17:15,18:15,1:00,Python
+All time to studie: 2:00
+
+__2023-4-6,Thursday
+11:15,11:40,0:25,Python
+12:15,14:00,1:45,Python
+All time to studie: 2:10
+
+__2023-4-7,Friday
+All time to studie: 0:0
+
+__2023-4-8,Saturday
+All time to studie: 0:0
+
+__2023-4-9,Sunday
+10:45,11:45,1:00,Python
+15:50,16:50,1:00,Python
+All time to studie: 2:00
+
+__2023-4-10,Monday
+13:00,13:40,0:40,Python
+18:50,19:25,0:35,Python
+All time to studie: 1:15
+
+__2023-4-11,Tuesday
+9:30,10:15,0:45,Python
+10:30,11:10,0:40,Python
+13:20,14:00,0:40,Python
+All time to studie: 2:05
+
+__2023-4-12,Wednesday
+10:05,11:15,1:10,Python
+13:45,14:35,0:50,Python
+All time to studie: 2:00
+
+__2023-4-13,Thursday
+All time to studie: 0:0
+
+__2023-4-14,Friday
+13:30,14:50,1:20,Python
+All time to studie: 1:20
+
+__2023-4-15,Saturday
+All time to studie: 0:0
+
+__2023-4-16,Sunday
+All time to studie: 0:0
+
+__2023-4-17,Monday
+8:00,8:45,0:45,Python
+9:45,11:15,1:10,Python
+14:17,15:40,1:00,Python
+All time to studie: 2:55
+
+__2023-4-18,Tuesday
+13:05,14:05,1:00,Python
+15:25,15:45,0:20,Python
+All time to studie: 1:20
+
+__2023-4-19,Wednesday
+13:30,14:30,1:00,Python
+15:20,15:40,0:20,Statistics
+16:05,16:40,0:35,Statistics
+17:10,17:30,0:20,Statistics
+All time to studie: 2:15
+
+__2023-4-20,Thursday
+12:00,12:30,0:30,Statistics
+13:10,14:05,0:55,Statistics
+14:45,15:15,0:30,Statistics
+All time to studie: 1:55
+
+__2023-4-21,Friday
+9:05,9:35,0:30,Python
+17:25,18:10,0:45,Python
+19:00,19:25,0:25,Python
+All time to studie: 1:40
+
+__2023-4-22,Saturday
+11:30,12:20,0:50,Statistics
+13:00,13:25,0:25,Statistics
+All time to studie: 1:15
+
+__2023-4-23,Sunday
+All time to studie: 0:0
+
+__2023-4-24,Monday
+18:35,19:15,0:40,Statistics
+19:30,20:00,0:30,Python
+All time to studie: 1:10
+
+__2023-4-25,Tuesday
+All time to studie: 0:0
+
+__2023-4-26,Wednesday
+14:25,15:25,0:40,Statistics
+All time to studie: 0:40
+
+__2023-4-27,Thursday
+8:30,9:15,0:45,Statistics
+14:25,15:40,1:15,Statistics
+18:30,19:00,0:30,Statistics
+All time to studie: 2:30
+
+__2023-4-28,Friday
+9:00,11:00,2:00,Statistics
+All time to studie: 2:30
+
+__2023-4-29,Saturday
+All time to studie: 0:0
+
+__2023-4-30,Sunday
+All time to studie: 0:0
+
+__2023-5-1,Monday
+12:55,14:05,1:10,Python
+14:20,15:20,1:00,Python
+16:00,16:30,0:30,Python
+17:25,18:05,0:40,Python
+All time to studie: 3:20
+
+__2023-5-2,Tuesday
+12:10,13:10,0:55,Python
+14:15,15:20,1:05,Python
+16:45,17:10,0:25,Python
+All time to studie: 2:25
+
+__2023-5-3,Wednesday
+10:30,11:00,0:30,Python
+All time to studie: 0:30
+
+__2023-5-4,Thursday
+All time to studie: 0:0
+
+__2023-5-5,Friday
+14:05,14:15,1:10,Python
+16:40,17:10,0:30,Python
+18:30,19:15,0:45,Python
+21:35,22:20,0:45,Python
+All time to studie: 3:10
+
+__2023-5-6,Saturday
+11:45,12:45,1:00,Python
+All time to studie: 1:00
+
+__2023-5-7,Sunday
+9:00,10:07,1:00,Python
+All time to studie: 1:00
+
+__2023-5-8,Monday
+10:10,11:30,1:20,Python
+12:20,14:00,1:40,Python
+14:40,15:00,0:20,Python
+All time to studie: 3:20
+
+__2023-5-9,Tuesday
+All time to studie: 0:0
+
+__2023-5-10,Wednesday
+11:15,12:25,1:00,Python
+12:40,13:40,1:00,Python
+14:15,15:15,1:00,Python
+17:50,19:00,1:10,Python
+All time to studie: 4:10
+
+__2023-5-11,Thursday
+11:10,12:10,1:00,Python
+13:30,15:00,1:30,Python
+All time to studie: 2:30
+
+__2023-5-12,Friday
+9:50,10:55,1:00,Python
+15:55,16:45,0:50,Python
+
+__2023-5-13,Saturday
+All time to studie: 0:0
+
+__2023-5-14,Sunday
+17:40,18:25,0:45,Python
+19:45,20:15,0:30,Python
+All time to studie: 1:15
+
+__2023-5-15,Monday
+7:20,8:45,1:10,Python
+11:50,12:30,0:40,Python
+20:20,21:40,1:20,Python
+All time to studie: 3:10
+
+__2023-5-16,Tuesday
+All time to studie: 0:0
+
+__2023-5-17,Wednesday
+14:20,15:35,1:15,Python
+17:45,18:05,0:20,Python
+18:20,19:05,0:45,Python
+All time to studie: 2:20
+
+__2023-5-18,Thursday
+8:20,9:30,1:10,Python
+11:20,12:15,0:55,Python
+12:42,13:27,0:45,Python
+16:43,17:50,1:05,Python
+19:38,20:23,0:45,Python
+All time to studie: 4:40
+
+__2023-5-19,Friday
+8:50,9:55,1:05,Python
+11:00,12:00,0:55,Python
+15:30,16:35,1:00,Python
+17:40,18:40,0:50,Statistics
+20:12,20:45,0:30,Python
+All time to studie: 4:20
+
+__2023-5-20,Saturday
+9:50,10:50,1:00,Statistics
+19:10,20:10,1:00,Python
+All time to studie: 2:00
+
+__2023-5-21,Sunday
+16:00,16:55,0:50,Python
+20:17,21:34,1:15,Python
+All time to studie: 2:05
+
+__2023-5-22,Monday
+11:03,12:12,1:05,Python
+13:10,13:30,0:20,Python
+15:37,16:19,0:40,Python
+18:30,18:40,0:20,Python
+18:40,19:22,0:30,Statistics
+20:26,21:07,0:40,DataScience
+All time to studie: 3:35
+
+__2023-5-23,Tuesday
+9:30,10:50,1:00,Python
+11:33,12:53,1:10,Python
+14:00,14:48,0:40,Python
+16:45,17:45,1:00,Statistics
+All time to studie: 3:50
+
+__2023-5-24,Wednesday
+9:50,11:00,1:10,Python
+12:35,13:45,1:10,Python
+15:00,15:15,0:15,Python
+All time to studie: 2:35
+
+__2023-5-25,Thursday
+9:50,11:15,1:10,Python
+13:57,15:30,1:30,Python
+16:08,17:18,1:10,Python
+17:30,18:20,0:50,Statistics
+All time to studie: 4:40
+
+__2023-5-26,Friday
+8:40,9:40,1:00,Statistics
+10:15,11:15,1:00,Statistics
+11:35,12:15,0:40,Statistics
+13:25,13:55,0:30,Python
+16:10,16:50,0:40,Python
+All time to studie: 3:50
+
+__2023-5-27,Saturday
+13:00,14:00,1:00,Python
+14:15,16:25,2:10,Python
+20:40,21:10,0:30,Python
+All time to studie: 3:40
+
+__2023-5-28,Sunday
+14:15,16:15,1:50,Python
+17:17,19:00,1:20,Python
+All time to studie: 3:10
+
+__2023-5-29,Monday
+11:05,12:55,1:30,Python
+14:35,15:15,0:40,Python
+All time to studie: 2:10
+
+__2023-5-30,Tuesday
+8:20,9:05,0:45,Python
+11:07,11:32,0:25,Python
+12:25,13:35,1:10,Python
+15:10,16:10,1:00,Python
+19:25,19:50,0:25,Python
+All time to studie: 3:45
+
+__2023-5-31,Wednesday
+12:00,12:55,0:50,Python
+13:45,14:10,0:25,Python
+14:43,16:20,1:20,Python
+All time to studie: 2:35
+
+__2023-6-1,Thursday
+8:40,9:40,1:00,Python
+10:25,12:00,1:10,Python
+All time to studie: 2:10
+
+__2023-6-2,Friday
+9:25,11:00,1:35,Python
+11:40,12:40,0:55,Python
+All time to studie: 2:30
+
+__2023-6-3,Saturday
+6:13,7:25,1:10,Python
+7:30,8:55,1:20,Python
+13:20,14:40,1:20,Python
+15:40,17:15,1:30,Python
+All time to studie: 5:20
+
+__2023-6-4,Sunday
+12:52,14:07,1:10,Python
+14:53,16:27,1:30,Python
+All time to studie: 2:40
+
+__2023-6-5,Monday
+7:00,7:50,0:50,Python
+9:08,10:08,0:45,Python
+11:55,12:15,0:20,Python
+13:35,15:35,2:00,Python
+17:21,17:41,0:20,Python
+All time to studie: 4:15
+
+__2023-6-6,Tuesday
+9:35,10:40,1:00,Python
+15:43,17:56,2:10,Python
+18:40,19:05,0:25,Python
+All time to studie: 3:35
+
+__2023-6-7,Wednesday
+14:30,16:20,1:50,Python
+17:07,17:27,0:20,Python
+17:45,18:40,0:55,Python
+All time to studie: 3:05
+
+__2023-6-8,Thursday
+9:02,10:52,1:50,Python
+17:36,18:27,0:50,Python
+All time to studie: 2:40
+
+__2023-6-9,Friday
+8:37,10:08,1:30,Python
+12:15,13:57,1:40,Python
+16:40,17:44,1:00,Python
+All time to studie: 4:10
+
+__2023-6-10,Saturday
+8:00,8:50,0:50,Python
+17:45,18:23,0:35,Python
+19:15,19:37,0:20,Python
+All time to studie: 1:45
+
+__2023-6-11,Sunday
+8:45,10:00,1:00,Python
+12:47,13:30,0:40,Python
+All time to studie: 1:40
+
+__2023-6-12,Monday
+8:20,9:55,1:35,Python
+11:57,13:29,1:30,Python
+16:53,18:14,1:05,Python
+All time to studie: 4:10
+
+__2023-6-13,Tuesday
+8:05,9:38,1:20,Git
+15:35,16:35,1:00,Git
+16:40,17:46,1:05,Python
+19:25,20:30,1:00,Statistics
+All time to studie: 4:25
+
+__2023-6-14,Wednesday
+15:00,16:15,1:15,Statistics
+All time to studie: 1:15
