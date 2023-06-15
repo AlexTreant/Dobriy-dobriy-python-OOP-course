@@ -15,18 +15,15 @@ def data_plot():
         x_list.append(k)
         y = sum(v.values())
         y_list.append(y)
-    print(x_list)
-    print(y_list)
     return x_list, y_list
 
 plt.figure(figsize=(15, 40))
 plt.title("График моей учёбы", fontsize=14, fontweight='bold', color='red')
 plt.xlabel('Календарь', fontsize=12, fontweight='bold', color='black')
 plt.ylabel('Время учёбы', fontsize=12, fontweight='bold', color='black')
-
 plt.barh(*data_plot(), label='Моё обучение')
 
 plt.legend()
 plt.grid()
 plt.savefig('test_saved_figure.png')
-plt.show()
+# plt.show()
